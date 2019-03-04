@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ever_lp@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog"
-url: "http://lp.github.io"          # your host, for absolute URL
+url: "http://lpkingpq.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID:        290f6a087fac5cab43a8                   #生成的clientID
   clientSecret:     cd776d969dceffaf72e398752484938da7971d6f#生成的clientSecret
-  repo: lp.github.io    #仓库名称
+  repo: lpkingpq.github.io    #仓库名称
   owner: lpkingpq    #github用户名
   admin: lpkingpq
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -97,18 +97,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+ #   {
+  #      title: "WY",
+   #     href: "http://zhengwuyang.com"
+    #},{
+     #   title: "简书·BY",
+      #  href: "http://www.jianshu.com/u/e71990ada2fd"
+    #},{
+     #   title: "Apple",
+      #  href: "https://apple.com"
+    #},{
+     #   title: "Apple Developer",
+      #  href: "https://developer.apple.com/"
+    #}
+#]
